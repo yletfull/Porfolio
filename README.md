@@ -7,9 +7,9 @@
 ### 4. Git, github, сложные регулярные выражения, валидация на стороне клиента.
 [Изучение Git + Валидация Имени, Email, Телефона, Url.](https://github.com/yletfull/spr10)
 ### 5. Webpack, npm, минификация, транспиляция, сборка, деплой.
-[Изучение Webpack, сборка проекта соцсети.](https://github.com/yletfull/spr11)
+[Изучение Webpack, сборка проекта соцсети.](https://github.com/yletfull/mesto_frontend)
 ### 6. NoSQL базы данных, Node.js, Express.js, Postman, MongoDB, тестирование веб приложений.
-[Сервер для нашей соцсети.](https://github.com/yletfull/spr15)
+[Сервер для нашей соцсети.](https://github.com/yletfull/mesto_api)
 
 ## Дипломная работа:
 [Backend](https://github.com/yletfull/news-explorer-api)  
