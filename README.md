@@ -4,16 +4,16 @@
 трансформации, медиазапросы, семантическая верстка  
 кроссбраузерность , БЭМ.  
 [gitHub](https://github.com/yletfull/spr2)  
-[демо](https://github.com/yletfull/spr2)    
+[демо](https://yletfull.github.io/spr2/)    
 2. Верстка + интерфейс под разные разрешения.  
 [gitHub](https://github.com/yletfull/spr4)  
-[демо](https://github.com/yletfull/spr4) 
+[демо](https://yletfull.github.io/spr4/) 
 3. Верстка + формы и их валидация, JS(ES6+), ООП, AJAX.  
 [gitHub](https://github.com/yletfull/spr9)  
 4. Git, github, сложные регулярные выражения, валидация на  
 стороне клиента.  
 [gitHub](https://github.com/yletfull/spr10)  
-[демо](https://github.com/yletfull/spr10)  
+[демо](https://yletfull.github.io/spr10/)  
 5. Webpack, npm, минификация, транспиляция, сборка,  
 деплой.  
 [gitHub](https://github.com/yletfull/mesto_frontend)  
