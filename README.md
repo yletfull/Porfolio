@@ -20,7 +20,8 @@
 [демо](https://www.mesto-project.gq/)  
 6. NoSQL базы данных, Node.js, Express.js, Postman, MongoDB,    
 тестирование веб приложений.  
-[gitHub](https://github.com/yletfull/mesto_api)   
+[gitHub 1 проект](https://github.com/yletfull/spr15)   
+[gitHub 2 проект](https://github.com/yletfull/mesto_api)  
 7. Дипломная работа:  
 [Backend](https://github.com/yletfull/news-explorer-api)    
 [Frontend](https://github.com/yletfull/news-explorerfrontend)    
