@@ -24,7 +24,7 @@
 7. Дипломная работа:  
 [Backend](https://github.com/yletfull/news-explorer-api)    
 [Frontend](https://github.com/yletfull/news-explorerfrontend)    
-[Deploy](https://diploma.gq)   
+[демо](https://diploma.gq)   
 
 Все проекты были проверены менторами, в роли которых  
 были действующие разработчики с большим опытом работы.  
