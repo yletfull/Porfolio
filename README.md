@@ -24,7 +24,7 @@
 [gitHub 2 проект](https://github.com/yletfull/mesto_api)  
 7. Дипломная работа:  
 [Backend](https://github.com/yletfull/news-explorer-api)    
-[Frontend](https://github.com/yletfull/news-explorerfrontend)    
+[Frontend](https://github.com/yletfull/news-explorer-frontend)    
 [демо](https://diploma.gq)   
 
 Все проекты были проверены менторами, в роли которых  
